@@ -45,10 +45,18 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Visuals
 
-/Users/andrey/Desktop/bootcamp/react-portfolio/screenshots/portfolio.png
-      /Users/andrey/Desktop/bootcamp/react-portfolio/screenshots/aboutme.png
-/Users/andrey/Desktop/bootcamp/react-portfolio/screenshots/contact.png
-/Users/andrey/Desktop/bootcamp/react-portfolio/screenshots/resume.png
+(
+    /Users/andrey/Desktop/bootcamp/react-portfolio/screenshots/portfolio.png
+)
+      (
+          /Users/andrey/Desktop/bootcamp/react-portfolio/screenshots/aboutme.png
+      )
+(
+    /Users/andrey/Desktop/bootcamp/react-portfolio/screenshots/contact.png
+)
+(
+    /Users/andrey/Desktop/bootcamp/react-portfolio/screenshots/resume.png
+)
 ## License
 
     /github/license/:user/:repo
