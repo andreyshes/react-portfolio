@@ -45,11 +45,10 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Visuals
 
-    <img src="./screenshots/aboutme.png" alt="about me landing page" />
-    	<img src="./screenshots/contact.png" alt="contact page" />
-    	<img src="./screenshots/portfolio.png" alt="portfolio page" />
-    	<img src="./screenshots/resume.png" alt="resume page" />
-
+/Users/andrey/Desktop/bootcamp/react-portfolio/screenshots/portfolio.png
+      /Users/andrey/Desktop/bootcamp/react-portfolio/screenshots/aboutme.png
+/Users/andrey/Desktop/bootcamp/react-portfolio/screenshots/contact.png
+/Users/andrey/Desktop/bootcamp/react-portfolio/screenshots/resume.png
 ## License
 
     /github/license/:user/:repo
