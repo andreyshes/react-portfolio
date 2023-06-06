@@ -45,7 +45,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Visuals
 
-(./src/screenshots/aboutme.png)
+<img src="./src/screenshots/aboutme.png" alt="" />
 
 ## License
 
