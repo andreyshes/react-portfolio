@@ -43,6 +43,13 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 - dowload through github
 - run npm i
 
+## Visuals
+
+    <img src="./screenshots/aboutme.png" alt="about me landing page" />
+    	<img src="./screenshots/contact.png" alt="contact page" />
+    	<img src="./screenshots/portfolio.png" alt="portfolio page" />
+    	<img src="./screenshots/resume.png" alt="resume page" />
+
 ## License
 
     /github/license/:user/:repo
