@@ -2,8 +2,10 @@ import React from "react";
 
 const styles = {
 	h2: {
-		color: "white",
+		color: "#582f0e",
 		textAlign: "center",
+		fontSize: "40px",
+		fontFamily: "font-serif",
 	},
 	link: {
 		color: "#0000FF",
@@ -13,11 +15,14 @@ const styles = {
 		paddingRight: "0.5rem",
 	},
 	h3: {
-		color: "white",
+		color: "black",
 		paddingTop: "0.75rem",
+		fontSize: "28px",
 	},
 	p: {
-		color: "white",
+		color: "black",
+		fontSize: "22px",
+		fontFamily: "font-mono",
 	},
 };
 

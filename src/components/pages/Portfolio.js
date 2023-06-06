@@ -11,6 +11,9 @@ import "../../style/portfolio.css";
 const styles = {
 	h2: {
 		textAlign: "center",
+		fontSize: "40px",
+		color: "#582f0e",
+		fontFamily: "font-serif",
 	},
 	space: {
 		paddingLeft: "0.5rem",
@@ -26,6 +29,11 @@ const styles = {
 		paddingBottom: "0.15rem",
 	},
 };
+const imageStyle = {
+	width: "400px",
+	height: "400px",
+	objectFit: "cover",
+};
 
 export default function Portfolio() {
 	return (
@@ -40,6 +48,7 @@ export default function Portfolio() {
 						>
 							<img
 								className="card-img-top"
+								style={imageStyle}
 								src={TravelMate}
 								alt="screenshot of travelmate"
 							/>
@@ -91,6 +100,7 @@ export default function Portfolio() {
 						<a href="#" target="blank">
 							<img
 								className="card-img-top"
+								style={imageStyle}
 								src={WeatherDashboard}
 								alt="screenshot of weather dashboard showing weather"
 							/>
@@ -114,9 +124,13 @@ export default function Portfolio() {
 
 				<div className="row justify-content-center">
 					<section className="card col-sm-3 p-0 m-2">
-						<a href="#" target="blank">
+						<a
+							href="https://andreyshes.github.io/Javascript-Code-Quiz/"
+							target="blank"
+						>
 							<img
 								className="card-img-top"
+								style={imageStyle}
 								src={CodeQuiz}
 								alt="screenshot of code quiz game application"
 							/>
@@ -146,6 +160,7 @@ export default function Portfolio() {
 						>
 							<img
 								className="card-img-top"
+								style={imageStyle}
 								src={TeamProfile}
 								alt="screenshot of a team member built"
 							/>
@@ -171,6 +186,7 @@ export default function Portfolio() {
 						<a href="#" target="blank">
 							<img
 								className="card-img-top"
+								style={imageStyle}
 								src={TextEditor}
 								alt="screenshot of installed text editor showing Hello World!"
 							/>
