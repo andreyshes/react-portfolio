@@ -45,11 +45,11 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Visuals
 
-(src/screenshots/abouteme.png)
+(./src/screenshots/abouteme.png)
 
 ## License
 
-    /github/license/:user/:repo
+    MIT
 
 ## Credits
 
